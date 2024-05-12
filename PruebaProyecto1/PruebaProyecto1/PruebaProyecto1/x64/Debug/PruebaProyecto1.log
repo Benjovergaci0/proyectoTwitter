@@ -1,0 +1,61 @@
+﻿  Consola.cpp
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Consola.cpp")
+  
+  PruebaProyecto1.cpp
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "PruebaProyecto1.cpp")
+  
+  Publicacion.cpp
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Publicacion.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(17,9): error C2065: 'Publicacion': identificador no declarado
+  (compilando archivo de origen "Publicacion.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(17,21): error C2059: error de sintaxis: '>'
+  (compilando archivo de origen "Publicacion.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(22,59): error C2065: 'Publicacion': identificador no declarado
+  (compilando archivo de origen "Publicacion.cpp")
+  
+  StaticLoader.cpp
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(21,9): error C2059: error de sintaxis: '>'
+  (compilando archivo de origen "Publicacion.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(38,9): error C2065: 'Publicacion': identificador no declarado
+  (compilando archivo de origen "Publicacion.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(38,21): error C2059: error de sintaxis: '>'
+  (compilando archivo de origen "Publicacion.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "StaticLoader.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(17,9): error C2065: 'Publicacion': identificador no declarado
+  (compilando archivo de origen "StaticLoader.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(17,21): error C2059: error de sintaxis: '>'
+  (compilando archivo de origen "StaticLoader.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(22,59): error C2065: 'Publicacion': identificador no declarado
+  (compilando archivo de origen "StaticLoader.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(21,9): error C2059: error de sintaxis: '>'
+  (compilando archivo de origen "StaticLoader.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(38,9): error C2065: 'Publicacion': identificador no declarado
+  (compilando archivo de origen "StaticLoader.cpp")
+  
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(38,21): error C2059: error de sintaxis: '>'
+  (compilando archivo de origen "StaticLoader.cpp")
+  
+  Twitter.cpp
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Twitter.cpp")
+  
+  Usuario.cpp
+D:\RESCATE SEP 2022\Documents\documentos U semestre 1-2024\progra 2\PruebaProyecto1\PruebaProyecto1\PruebaProyecto1\Usuario.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Usuario.cpp")
+  
+  Generando código...
